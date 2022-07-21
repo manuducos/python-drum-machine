@@ -1,6 +1,6 @@
 # Python Drum Machine
 
-It’s an app with an interface that allows you to create, save and load musical beats involving  **6 instruments** with different `*names*`, `*combination of sounds*`, `*total number of beats*` and `*beats per minute*`.
+It’s an app with an interface that allows you to create, save and load musical beats involving  **6 instruments** with different `names`, `combination of sounds`, `total number of beats` and `beats per minute`.
 
 It was built using the pygame library.
 
